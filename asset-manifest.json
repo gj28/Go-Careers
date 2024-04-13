@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Go-Careers/static/css/main.68f127ce.css",
+    "main.js": "/Go-Careers/static/js/main.092dc8f1.js",
+    "static/media/cool-background.png": "/Go-Careers/static/media/cool-background.cb5cee1ac4514be5a4be.png",
+    "static/media/tesla.png": "/Go-Careers/static/media/tesla.07f612597196a0c119d9.png",
+    "static/media/sap.jpeg": "/Go-Careers/static/media/sap.b2bc7f8625809466165a.jpeg",
+    "static/media/flp.jpeg": "/Go-Careers/static/media/flp.5f02dfcba9db57b63d0b.jpeg",
+    "static/media/synopsys.png": "/Go-Careers/static/media/synopsys.bea76ee6b322b1da4d3d.png",
+    "static/media/oracle.png": "/Go-Careers/static/media/oracle.c07667e36b072b6a4208.png",
+    "static/media/amazon.png": "/Go-Careers/static/media/amazon.138c5b5e99765ffac1a1.png",
+    "static/media/tcs.webp": "/Go-Careers/static/media/tcs.a7873527060d53dadef1.webp",
+    "static/media/accenture.jpeg": "/Go-Careers/static/media/accenture.efd3e5718eac1fbe59e7.jpeg",
+    "static/media/paytm.png": "/Go-Careers/static/media/paytm.fd7bf2f466023f3c3ace.png",
+    "static/media/ibm.jpeg": "/Go-Careers/static/media/ibm.b700f9aef98d6a67d5ad.jpeg",
+    "static/media/cognizant.webp": "/Go-Careers/static/media/cognizant.322b3a8a75fff5cbbc7d.webp",
+    "index.html": "/Go-Careers/index.html",
+    "main.68f127ce.css.map": "/Go-Careers/static/css/main.68f127ce.css.map",
+    "main.092dc8f1.js.map": "/Go-Careers/static/js/main.092dc8f1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68f127ce.css",
+    "static/js/main.092dc8f1.js"
+  ]
+}
